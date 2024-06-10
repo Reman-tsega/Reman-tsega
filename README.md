@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Ml and Datascience**
+- 👯 I’m looking to collaborate on **Ml and Data science**
 
 - 🤝 I’m looking for help with **AI development**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01a4854bb102d04397](https://www.upwork.com/freelancers/~01a4854bb102d04397)
 
-- 💬 Ask me about **React, Next ,Express,Mongo**
+- 💬 Ask me about **React, Next , Express,Mongo**
 
 - 📫 How to reach me **remantsega@gmail.com**
 
-- ⚡ Fun fact **I curious about making money. always**
+- ⚡ Fun fact **I am curious about making money. always**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
