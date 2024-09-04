@@ -7,8 +7,7 @@
 
 - 🤝 I’m looking for help with **AI development**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01a4854bb102d04397](https://www.upwork.com/freelancers/~01a4854bb102d04397)
-
+- 👨‍💻 All of my projects are available at https://haile-dev-portifoli.onrender.com/
 - 💬 Ask me about **React, Next ,Express,Mongo**
 
 - 📫 How to reach me **remantsega@gmail.com**
