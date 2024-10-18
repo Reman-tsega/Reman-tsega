@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haylemichael Tsega</h1>
-<h3 align="center">I am a software developer with 2+ years of experience working on developing projects and platforms. I have strong experience designing and implementing robust, scalable, and simple solutions to solve real-life business cases. Any project I'm invited to, I make sure that I have the time and skills to complete the project beyond your expectations.</h3>
+<h3 align="center">I am a software developer with 4+ years of experience working on developing projects and platforms. I have strong experience designing and implementing robust, scalable, and simple solutions to solve real-life business cases. Any project I'm invited to, I make sure that I have the time and skills to complete the project beyond your expectations.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
